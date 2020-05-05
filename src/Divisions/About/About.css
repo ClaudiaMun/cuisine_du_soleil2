@@ -1,0 +1,19 @@
+
+h1{
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+p{
+  font-family: fantasy;
+}
+
+.About{
+  box-sizing: border-box;
+  background-color: rgb(218, 247, 166);
+  padding: 1em;
+  margin-bottom: 2em;
+  width: calc(100% - 80px);
+  margin: auto;
+
+
+}

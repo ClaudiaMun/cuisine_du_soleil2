@@ -1,0 +1,21 @@
+.List {
+  width: calc(100% - 80px);
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 40px;
+
+}
+.Poplist{
+    width: calc(100% - 80px);
+    margin: auto;
+    border: 10px dotted #ffe5b4;
+}
+.popular{
+   text-align: center;
+}
+
+.Trending{
+  text-align: center;
+  color: 	#191970;
+}

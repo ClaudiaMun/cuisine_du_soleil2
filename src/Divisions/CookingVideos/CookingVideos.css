@@ -1,0 +1,13 @@
+.frame-border{
+  border: 10px dotted #ffe5b4 ;
+
+}
+
+.frame-border1{
+  border: 10px dotted  rgb(218, 247, 166);
+}
+
+.Check{
+  text-align: center;
+  color: 	#191970;
+}

@@ -1,0 +1,54 @@
+.TropicalList {
+  width: calc(100% - 80px);
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 40px;
+
+}
+
+
+.container{
+  text-align: center;
+  color: 	#191970;
+
+}
+
+.MexicanList {
+  width: calc(100% - 80px);
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 40px;
+
+}
+
+.DessertList {
+  width: calc(100% - 80px);
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 40px;
+
+}
+.FastList {
+  width: calc(100% - 80px);
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 40px;
+
+}
+.Tropical {
+  border: 10px dotted #ffe5b4
+}
+.Mexican {
+ border: 10px dotted #ffe5b4
+
+}
+.Desserts {
+  border: 10px dotted #ffe5b4
+}
+.FastFood {
+  border: 10px dotted #ffe5b4
+}
